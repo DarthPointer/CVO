@@ -1,0 +1,6 @@
+*.*
+!.gitignore
+!Content/CVO/*
+!Content/WeaponsNTools/AssaultRifle/WPN_AssaultRifle.uasset
+!Content/WeaponsNTools/AssaultRifle/ID_AssaultRifle.uasset
+
