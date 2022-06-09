@@ -8,6 +8,9 @@
 !Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uasset
 !Content/WeaponsNTools/BoltActionRifle/ID_M1000.uasset
 
+!Content/WeaponsNTools/GrapplingGun/ID_GrapplingGun.uasset
+!Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uasset
+
 !Content/Game/GameData/GD_SchematicSettings.uasset
 !Content/GameElements/Schematics/DT_SchematicPricingTable.uasset
 !Content/GameElements/Schematics/*
@@ -15,3 +18,4 @@
 !Content/GameElements/Schematics/Categories/SCAT*
 !Content/WeaponsNTools/_GlobalSkins/SCC_GlobalSkin_*
 !Content/UI/Art/Icons/Icons_Overclocks/Rewards/*
+!Content/WeaponsNTools/ZipLineGun/STE_ZiplineFallDamageReduction.uasset
