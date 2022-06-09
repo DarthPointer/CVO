@@ -13,6 +13,7 @@
 
 !Content/Game/GameData/GD_SchematicSettings.uasset
 !Content/GameElements/PawnStats/*
+!Content/GameElements/Resources/**/RES*
 !Content/GameElements/Schematics/DT_SchematicPricingTable.uasset
 !Content/GameElements/Schematics/*
 !Content/GameElements/Schematics/Rarity/*
