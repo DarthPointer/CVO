@@ -12,10 +12,12 @@
 !Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uasset
 
 !Content/Game/GameData/GD_SchematicSettings.uasset
+!Content/GameElements/PawnStats/*
 !Content/GameElements/Schematics/DT_SchematicPricingTable.uasset
 !Content/GameElements/Schematics/*
 !Content/GameElements/Schematics/Rarity/*
 !Content/GameElements/Schematics/Categories/SCAT*
 !Content/WeaponsNTools/_GlobalSkins/SCC_GlobalSkin_*
+!Content/WeaponsNTools/_UpgradeCategories/*
 !Content/UI/Art/Icons/Icons_Overclocks/Rewards/*
 !Content/WeaponsNTools/ZipLineGun/STE_ZiplineFallDamageReduction.uasset
