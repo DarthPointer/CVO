@@ -12,7 +12,7 @@
 
 !Content/WeaponsNTools/GrapplingGun/ID_GrapplingGun.uasset
 !Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uasset
-!Content/WeaponsNTools/GrapplingGun/STE_ScoutSpeedBoost.uasset
+!Content/WeaponsNTools/GrapplingGun/PAF_ScoutSpeedBoost.uasset
 
 !Content/WeaponsNTools/Revolver/STE_Revolver_Neurotoxin.uasset
 
@@ -57,3 +57,4 @@
 !Content/LevelElements/RoomObjects/Hazards/ElectricPlant/STE_ElecticPlant_slowdown.uasset
 !Content/LevelElements/RoomObjects/Hazards/STE_Radiation_MiniNuke_Enemy.uasset
 !Content/GameElements/Damage/DMG*
+!Content/GameElements/KPI/Perks/EXKEY_MovementSpeedBonus.uasset
