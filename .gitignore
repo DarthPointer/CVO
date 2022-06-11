@@ -7,10 +7,40 @@
 
 !Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uasset
 !Content/WeaponsNTools/BoltActionRifle/ID_M1000.uasset
+!Content/WeaponsNTools/BoltActionRifle/STE_M1000_Electrocution.uasset
 
 !Content/WeaponsNTools/GrapplingGun/ID_GrapplingGun.uasset
 !Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uasset
 !Content/WeaponsNTools/GrapplingGun/STE_ScoutSpeedBoost.uasset
+
+!Content/WeaponsNTools/Revolver/STE_Revolver_Neurotoxin.uasset
+
+!Content/WeaponsNTools/SMG/STE_ElectricSMG.uasset
+
+!Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/STE_Electric_Plasma_Linecutter.uasset
+
+!Content/WeaponsNTools/LockOnRifle/STE_EnemySlowdown_LockOnRifle.uasset
+
+!Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/STE_Electric_BurstPistolMines.uasset
+
+!Content/WeaponsNTools/SentryGun/STE_TurretArc_Enemies.uasset
+
+!Content/WeaponsNTools/MicrowaveGun/STE/STE_EnemySlowdown_MicrowaveGun.uasset
+!Content/WeaponsNTools/MicrowaveGun/STE/STE_RadiationCloud_MicrowaveGun.uasset
+!Content/WeaponsNTools/MicrowaveGun/STE/STE_RadiationEnemy_MicrowaveGun.uasset
+
+!Content/WeaponsNTools/Grenades/IFG/STE_Grenade_IFG_SlowMovement.uasset
+!Content/WeaponsNTools/Grenades/Neurotoxin/STE_Grenade_Neurotoxin.uasset
+
+!Content/WeaponsNTools/CoilGun/STE_ContrailBase_CoilGun.uasset
+!Content/WeaponsNTools/CoilGun/STE_ElectricTrail_Coilgun.uasset
+!Content/WeaponsNTools/CoilGun/STE_HellfireTrail_CoilGun.uasset
+
+!Content/WeaponsNTools/Crossbow/StatusEffects/STE_Crossbow_ChemicalExplosion.uasset
+!Content/WeaponsNTools/Crossbow/StatusEffects/STE_Crossbow_Pheromone.uasset
+!Content/WeaponsNTools/Crossbow/StatusEffects/STE_Crossbow_TaserArrows.uasset
+
+!Content/WeaponsNTools/HeavyParticleCannon/STE_EnemySlowdown_HeavyParticleCannon.uasset
 
 !Content/Game/GameData/GD_SchematicSettings.uasset
 !Content/GameElements/PawnStats/*
@@ -23,3 +53,5 @@
 !Content/WeaponsNTools/_UpgradeCategories/*
 !Content/UI/Art/Icons/Icons_Overclocks/Rewards/*
 !Content/WeaponsNTools/ZipLineGun/STE_ZiplineFallDamageReduction.uasset
+!Content/LevelElements/RoomObjects/Hazards/ElectricPlant/STE_ElecticPlant_slowdown.uasset
+!Content/LevelElements/RoomObjects/Hazards/STE_Radiation_MiniNuke_Enemy.uasset
