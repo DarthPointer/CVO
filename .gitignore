@@ -14,6 +14,15 @@
 !Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uasset
 !Content/WeaponsNTools/GrapplingGun/PAF_ScoutSpeedBoost.uasset
 
+!Content/WeaponsNTools/Drills/ID_DoubleDrills.uasset
+!Content/WeaponsNTools/Drills/WPN_DoubleDrills.uasset
+
+!Content/WeaponsNTools/FlareGun/ID_FlareGun.uasset
+!Content/WeaponsNTools/FlareGun/WPN_FlareGun.uasset
+
+!Content/WeaponsNTools/PlatformGun/ID_PlatformGun.uasset
+!Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset
+
 !Content/WeaponsNTools/Revolver/STE_Revolver_Neurotoxin.uasset
 
 !Content/WeaponsNTools/SMG/STE_ElectricSMG.uasset
