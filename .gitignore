@@ -55,6 +55,7 @@
 !Content/WeaponsNTools/HeavyParticleCannon/STE_EnemySlowdown_HeavyParticleCannon.uasset
 
 !Content/Game/GameData/GD_SchematicSettings.uasset
+!Content/Game/GameData/GD_DamageSettings.uasset
 !Content/GameElements/PawnAffliction/PAF_Electicity.uasset
 !Content/GameElements/PawnStats/*
 !Content/GameElements/Resources/**/RES*
