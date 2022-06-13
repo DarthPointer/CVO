@@ -11,6 +11,9 @@ Content/**/*.*
 !Content/WeaponsNTools/BoltActionRifle/ID_M1000.uasset
 !Content/WeaponsNTools/BoltActionRifle/STE_M1000_Electrocution.uasset
 
+!Content/WeaponsNTools/SawedOffShotgun/ID_SawedOffShotgun.uasset
+!Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uasset
+
 !Content/WeaponsNTools/GrapplingGun/ID_GrapplingGun.uasset
 !Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uasset
 !Content/WeaponsNTools/GrapplingGun/PAF_ScoutSpeedBoost.uasset
@@ -25,9 +28,6 @@ Content/**/*.*
 !Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset
 
 !Content/WeaponsNTools/Revolver/STE_Revolver_Neurotoxin.uasset
-
-!Content/WeaponsNTools/SawedOffShotgun/ID_SawedOffShotgun.uasset
-!Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uasset
 
 !Content/WeaponsNTools/SMG/STE_ElectricSMG.uasset
 
