@@ -1,6 +1,7 @@
-*.*
+Content/**/*.*
 !.gitignore
 !Content/CVO/**
+!Content/CVO_BP_Assist/**
 
 !Content/WeaponsNTools/Armor/ID*
 
@@ -11,6 +12,12 @@
 !Content/WeaponsNTools/BoltActionRifle/WPN_M1000.uasset
 !Content/WeaponsNTools/BoltActionRifle/ID_M1000.uasset
 !Content/WeaponsNTools/BoltActionRifle/STE_M1000_Electrocution.uasset
+
+!Content/WeaponsNTools/SawedOffShotgun/ID_SawedOffShotgun.uasset
+!Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uasset
+
+!Content/WeaponsNTools/DualMachinePistols/ID_DualMPs.uasset
+!Content/WeaponsNTools/DualMachinePistols/WPN_DualMPs.uasset
 
 !Content/WeaponsNTools/GrapplingGun/ID_GrapplingGun.uasset
 !Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uasset
@@ -55,6 +62,8 @@
 !Content/WeaponsNTools/HeavyParticleCannon/STE_EnemySlowdown_HeavyParticleCannon.uasset
 
 !Content/Game/GameData/GD_SchematicSettings.uasset
+!Content/Game/GameData/GD_DamageSettings.uasset
+!Content/GameElements/PawnAffliction/PAF_Electicity.uasset
 !Content/GameElements/PawnStats/*
 !Content/GameElements/Resources/**/RES*
 !Content/GameElements/Schematics/DT_SchematicPricingTable.uasset
