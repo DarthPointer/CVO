@@ -35,6 +35,8 @@ Content/**/*.*
 
 !Content/WeaponsNTools/Revolver/STE_Revolver_Neurotoxin.uasset
 
+!Content/WeaponsNTools/SMG/ID_SMG.uasset
+!Content/WeaponsNTools/SMG/WPN_SMG_OneHand.uasset
 !Content/WeaponsNTools/SMG/STE_ElectricSMG.uasset
 
 !Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/STE_Electric_Plasma_Linecutter.uasset
