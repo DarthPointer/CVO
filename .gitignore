@@ -40,7 +40,9 @@ Content/**/*.*
 !Content/WeaponsNTools/PlatformGun/ID_PlatformGun.uasset
 !Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset
 
+!Content/WeaponsNTools/Revolver/ID_Revolver.uasset
 !Content/WeaponsNTools/Revolver/STE_Revolver_Neurotoxin.uasset
+!Content/WeaponsNTools/Revolver/WPN_Revolver.uasset
 
 !Content/WeaponsNTools/SMG/ID_SMG.uasset
 !Content/WeaponsNTools/SMG/WPN_SMG_OneHand.uasset
