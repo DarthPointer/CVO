@@ -24,6 +24,9 @@ Content/**/*.*
 !Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uasset
 !Content/WeaponsNTools/GrapplingGun/PAF_ScoutSpeedBoost.uasset
 
+!Content/WeaponsNTools/GatlingGun/ID_Gatling.uasset
+!Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset
+
 !Content/WeaponsNTools/Drills/ID_DoubleDrills.uasset
 !Content/WeaponsNTools/Drills/WPN_DoubleDrills.uasset
 
