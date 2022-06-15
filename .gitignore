@@ -27,6 +27,10 @@ Content/**/*.*
 !Content/WeaponsNTools/GatlingGun/ID_Gatling.uasset
 !Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset
 
+!Content/WeaponsNTools/Autocannon/ID_Autocannon.uasset
+!Content/WeaponsNTools/Autocannon/WPN_Autocannon.uasset
+!Content/WeaponsNTools/Autocannon/STE_AutoCanno_DamageResit.uasset
+
 !Content/WeaponsNTools/Drills/ID_DoubleDrills.uasset
 !Content/WeaponsNTools/Drills/WPN_DoubleDrills.uasset
 
