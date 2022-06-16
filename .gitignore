@@ -51,6 +51,10 @@ Content/**/*.*
 !Content/WeaponsNTools/SMG/WPN_SMG_OneHand.uasset
 !Content/WeaponsNTools/SMG/STE_ElectricSMG.uasset
 
+!Content/WeaponsNTools/GrenadeLauncher/ID_GrenadeLauncher.uasset
+!Content/WeaponsNTools/GrenadeLauncher/PRJ_GrenadeLauncher.uasset
+!Content/WeaponsNTools/GrenadeLauncher/WPN_GrenadeLauncher.uasset
+
 !Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/STE_Electric_Plasma_Linecutter.uasset
 
 !Content/WeaponsNTools/LockOnRifle/STE_EnemySlowdown_LockOnRifle.uasset
