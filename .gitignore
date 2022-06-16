@@ -34,6 +34,9 @@ Content/**/*.*
 !Content/WeaponsNTools/Drills/ID_DoubleDrills.uasset
 !Content/WeaponsNTools/Drills/WPN_DoubleDrills.uasset
 
+!Content/WeaponsNTools/ShieldGenerator/ID_ShieldGenerator.uasset
+!Content/WeaponsNTools/ShieldGenerator/WPN_ShieldRegeneratorItem.uasset
+
 !Content/WeaponsNTools/FlareGun/ID_FlareGun.uasset
 !Content/WeaponsNTools/FlareGun/WPN_FlareGun.uasset
 
