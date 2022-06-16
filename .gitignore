@@ -13,6 +13,9 @@ Content/**/*.*
 !Content/WeaponsNTools/BoltActionRifle/ID_M1000.uasset
 !Content/WeaponsNTools/BoltActionRifle/STE_M1000_Electrocution.uasset
 
+!Content/WeaponsNTools/CombatShotgun/ID_CombatShotgun.uasset
+!Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uasset
+
 !Content/WeaponsNTools/SawedOffShotgun/ID_SawedOffShotgun.uasset
 !Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uasset
 
@@ -23,6 +26,13 @@ Content/**/*.*
 !Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uasset
 !Content/WeaponsNTools/GrapplingGun/PAF_ScoutSpeedBoost.uasset
 
+!Content/WeaponsNTools/GatlingGun/ID_Gatling.uasset
+!Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset
+
+!Content/WeaponsNTools/Autocannon/ID_Autocannon.uasset
+!Content/WeaponsNTools/Autocannon/WPN_Autocannon.uasset
+!Content/WeaponsNTools/Autocannon/STE_AutoCanno_DamageResit.uasset
+
 !Content/WeaponsNTools/Drills/ID_DoubleDrills.uasset
 !Content/WeaponsNTools/Drills/WPN_DoubleDrills.uasset
 
@@ -32,8 +42,12 @@ Content/**/*.*
 !Content/WeaponsNTools/PlatformGun/ID_PlatformGun.uasset
 !Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset
 
+!Content/WeaponsNTools/Revolver/ID_Revolver.uasset
 !Content/WeaponsNTools/Revolver/STE_Revolver_Neurotoxin.uasset
+!Content/WeaponsNTools/Revolver/WPN_Revolver.uasset
 
+!Content/WeaponsNTools/SMG/ID_SMG.uasset
+!Content/WeaponsNTools/SMG/WPN_SMG_OneHand.uasset
 !Content/WeaponsNTools/SMG/STE_ElectricSMG.uasset
 
 !Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/STE_Electric_Plasma_Linecutter.uasset
