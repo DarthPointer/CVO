@@ -59,7 +59,11 @@ Content/**/*.*
 
 !Content/WeaponsNTools/LockOnRifle/STE_EnemySlowdown_LockOnRifle.uasset
 
-!Content/WeaponsNTools/BurstFirePistol/Overclocks/OCBonusPenalty/STE_Electric_BurstPistolMines.uasset
+!Content/WeaponsNTools/BurstFirePistol/ID_BurstPistol.uasset
+!Content/WeaponsNTools/BurstFirePistol/WPN_BurstPistol.uasset
+
+!Content/WeaponsNTools/Pistol/ID_Pistol.uasset
+!Content/WeaponsNTools/Pistol/WPN_Pistol_A.uasset
 
 !Content/WeaponsNTools/SentryGun/STE_TurretArc_Enemies.uasset
 
