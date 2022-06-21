@@ -55,7 +55,11 @@ Content/**/*.*
 !Content/WeaponsNTools/GrenadeLauncher/PRJ_GrenadeLauncher.uasset
 !Content/WeaponsNTools/GrenadeLauncher/WPN_GrenadeLauncher.uasset
 
-!Content/WeaponsNTools/LineCutter/Overclocks/OC_BonusesAndPenalties/STE_Electric_Plasma_Linecutter.uasset
+!Content/WeaponsNTools/LineCutter/BP_PersistentExplosionEffect_LineCutter.uasset
+!Content/WeaponsNTools/LineCutter/BP_PlasmaTrail_LineCutter.uasset
+!Content/WeaponsNTools/LineCutter/ID_LineCutter.uasset
+!Content/WeaponsNTools/LineCutter/PRJ_LineCutter2.uasset
+!Content/WeaponsNTools/LineCutter/WPN_LineCutter.uasset
 
 !Content/WeaponsNTools/LockOnRifle/STE_EnemySlowdown_LockOnRifle.uasset
 
