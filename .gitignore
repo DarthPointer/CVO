@@ -11,45 +11,31 @@ Content/**/*.*
 !Content/WeaponsNTools/BoltActionRifle/ID_M1000.uasset
 !Content/WeaponsNTools/BoltActionRifle/STE_M1000_Electrocution.uasset
 
-!Content/WeaponsNTools/CombatShotgun/ID_CombatShotgun.uasset
-!Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uasset
-
 !Content/WeaponsNTools/SawedOffShotgun/ID_SawedOffShotgun.uasset
 !Content/WeaponsNTools/SawedOffShotgun/WPN_SawedOffShotgun.uasset
 
 !Content/WeaponsNTools/DualMachinePistols/ID_DualMPs.uasset
 !Content/WeaponsNTools/DualMachinePistols/WPN_DualMPs.uasset
 
+!Content/WeaponsNTools/Crossbow/StatusEffects/STE_Crossbow_ChemicalExplosion.uasset
+!Content/WeaponsNTools/Crossbow/StatusEffects/STE_Crossbow_Pheromone.uasset
+!Content/WeaponsNTools/Crossbow/StatusEffects/STE_Crossbow_TaserArrows.uasset
+
 !Content/WeaponsNTools/GrapplingGun/ID_GrapplingGun.uasset
 !Content/WeaponsNTools/GrapplingGun/WPN_GrapplingGun.uasset
 !Content/WeaponsNTools/GrapplingGun/PAF_ScoutSpeedBoost.uasset
 
-!Content/WeaponsNTools/GatlingGun/ID_Gatling.uasset
-!Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset
-
-!Content/WeaponsNTools/Autocannon/ID_Autocannon.uasset
-!Content/WeaponsNTools/Autocannon/WPN_Autocannon.uasset
-!Content/WeaponsNTools/Autocannon/STE_AutoCanno_DamageResit.uasset
-
-!Content/WeaponsNTools/Drills/ID_DoubleDrills.uasset
-!Content/WeaponsNTools/Drills/WPN_DoubleDrills.uasset
-
-!Content/WeaponsNTools/ShieldGenerator/ID_ShieldGenerator.uasset
-!Content/WeaponsNTools/ShieldGenerator/WPN_ShieldRegeneratorItem.uasset
-
 !Content/WeaponsNTools/FlareGun/ID_FlareGun.uasset
 !Content/WeaponsNTools/FlareGun/WPN_FlareGun.uasset
 
-!Content/WeaponsNTools/PlatformGun/ID_PlatformGun.uasset
-!Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset
-
-!Content/WeaponsNTools/Revolver/ID_Revolver.uasset
-!Content/WeaponsNTools/Revolver/STE_Revolver_Neurotoxin.uasset
-!Content/WeaponsNTools/Revolver/WPN_Revolver.uasset
+!Content/WeaponsNTools/CombatShotgun/ID_CombatShotgun.uasset
+!Content/WeaponsNTools/CombatShotgun/WPN_CombatShotgun.uasset
 
 !Content/WeaponsNTools/SMG/ID_SMG.uasset
 !Content/WeaponsNTools/SMG/WPN_SMG_OneHand.uasset
 !Content/WeaponsNTools/SMG/STE_ElectricSMG.uasset
+
+!Content/WeaponsNTools/LockOnRifle/STE_EnemySlowdown_LockOnRifle.uasset
 
 !Content/WeaponsNTools/GrenadeLauncher/ID_GrenadeLauncher.uasset
 !Content/WeaponsNTools/GrenadeLauncher/PRJ_GrenadeLauncher.uasset
@@ -61,32 +47,60 @@ Content/**/*.*
 !Content/WeaponsNTools/LineCutter/PRJ_LineCutter2.uasset
 !Content/WeaponsNTools/LineCutter/WPN_LineCutter.uasset
 
-!Content/WeaponsNTools/LockOnRifle/STE_EnemySlowdown_LockOnRifle.uasset
+!Content/WeaponsNTools/HeavyParticleCannon/STE_EnemySlowdown_HeavyParticleCannon.uasset
 
-!Content/WeaponsNTools/BurstFirePistol/ID_BurstPistol.uasset
-!Content/WeaponsNTools/BurstFirePistol/WPN_BurstPistol.uasset
-
-!Content/WeaponsNTools/Pistol/ID_Pistol.uasset
-!Content/WeaponsNTools/Pistol/WPN_Pistol_A.uasset
+!Content/WeaponsNTools/PlatformGun/ID_PlatformGun.uasset
+!Content/WeaponsNTools/PlatformGun/WPN_PlatformGun.uasset
 
 !Content/WeaponsNTools/SentryGun/STE_TurretArc_Enemies.uasset
 
-!Content/WeaponsNTools/MicrowaveGun/STE/STE_EnemySlowdown_MicrowaveGun.uasset
-!Content/WeaponsNTools/MicrowaveGun/STE/STE_RadiationCloud_MicrowaveGun.uasset
-!Content/WeaponsNTools/MicrowaveGun/STE/STE_RadiationEnemy_MicrowaveGun.uasset
+!Content/WeaponsNTools/GatlingGun/ID_Gatling.uasset
+!Content/WeaponsNTools/GatlingGun/WPN_Gatling.uasset
 
-!Content/WeaponsNTools/Grenades/IFG/STE_Grenade_IFG_SlowMovement.uasset
-!Content/WeaponsNTools/Grenades/Neurotoxin/STE_Grenade_Neurotoxin.uasset
+!Content/WeaponsNTools/Autocannon/ID_Autocannon.uasset
+!Content/WeaponsNTools/Autocannon/WPN_Autocannon.uasset
+!Content/WeaponsNTools/Autocannon/STE_AutoCanno_DamageResit.uasset
+
+!Content/WeaponsNTools/Revolver/ID_Revolver.uasset
+!Content/WeaponsNTools/Revolver/STE_Revolver_Neurotoxin.uasset
+!Content/WeaponsNTools/Revolver/WPN_Revolver.uasset
+
+!Content/WeaponsNTools/BurstFirePistol/ID_BurstPistol.uasset
+!Content/WeaponsNTools/BurstFirePistol/WPN_BurstPistol.uasset
 
 !Content/WeaponsNTools/CoilGun/STE_ContrailBase_CoilGun.uasset
 !Content/WeaponsNTools/CoilGun/STE_ElectricTrail_Coilgun.uasset
 !Content/WeaponsNTools/CoilGun/STE_HellfireTrail_CoilGun.uasset
 
-!Content/WeaponsNTools/Crossbow/StatusEffects/STE_Crossbow_ChemicalExplosion.uasset
-!Content/WeaponsNTools/Crossbow/StatusEffects/STE_Crossbow_Pheromone.uasset
-!Content/WeaponsNTools/Crossbow/StatusEffects/STE_Crossbow_TaserArrows.uasset
+!Content/WeaponsNTools/ShieldGenerator/ID_ShieldGenerator.uasset
+!Content/WeaponsNTools/ShieldGenerator/WPN_ShieldRegeneratorItem.uasset
 
-!Content/WeaponsNTools/HeavyParticleCannon/STE_EnemySlowdown_HeavyParticleCannon.uasset
+!Content/WeaponsNTools/FlameThrower/BP_StickyFlame.uasset
+!Content/WeaponsNTools/FlameThrower/ID_FlameThrower.uasset
+!Content/WeaponsNTools/FlameThrower/STE_StickyFlame.uasset
+!Content/WeaponsNTools/FlameThrower/STE_StickyFlame_DamageBonus.uasset
+!Content/WeaponsNTools/FlameThrower/STE_StickyFlame_Slowdown.uasset
+!Content/WeaponsNTools/FlameThrower/WPN_FlameThrower.uasset
+
+!Content/WeaponsNTools/Cryospray/BP_StickyFrost.uasset
+!Content/WeaponsNTools/Cryospray/ID_Cryospray.uasset
+!Content/WeaponsNTools/Cryospray/PRJ_Crye_SnowBall.uasset
+!Content/WeaponsNTools/Cryospray/PRJ_Cryocannon.uasset
+!Content/WeaponsNTools/Cryospray/STE_StickyFlame_Frost.uasset
+!Content/WeaponsNTools/Cryospray/WPN_Cryospray.uasset
+
+!Content/WeaponsNTools/Pistol/ID_Pistol.uasset
+!Content/WeaponsNTools/Pistol/WPN_Pistol_A.uasset
+
+!Content/WeaponsNTools/MicrowaveGun/STE/STE_EnemySlowdown_MicrowaveGun.uasset
+!Content/WeaponsNTools/MicrowaveGun/STE/STE_RadiationCloud_MicrowaveGun.uasset
+!Content/WeaponsNTools/MicrowaveGun/STE/STE_RadiationEnemy_MicrowaveGun.uasset
+
+!Content/WeaponsNTools/Drills/ID_DoubleDrills.uasset
+!Content/WeaponsNTools/Drills/WPN_DoubleDrills.uasset
+
+!Content/WeaponsNTools/Grenades/IFG/STE_Grenade_IFG_SlowMovement.uasset
+!Content/WeaponsNTools/Grenades/Neurotoxin/STE_Grenade_Neurotoxin.uasset
 
 !Content/Game/GameData/GD_SchematicSettings.uasset
 !Content/Game/GameData/GD_DamageSettings.uasset
